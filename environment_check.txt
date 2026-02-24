@@ -1,0 +1,11 @@
+Environment Setup Verification
+
+Python Version:
+Python 3.14.3
+
+Conda Version:
+conda 26.1.1
+
+Status:
+Python and Anaconda installed successfully.
+Environment ready for Data Science Sprint.
