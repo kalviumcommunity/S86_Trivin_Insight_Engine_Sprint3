@@ -6,34 +6,54 @@ This milestone demonstrates understanding of Jupyter Notebook fundamentals requi
 
 **Sprint:** S86 - Trivin Insight Engine Sprint 3  
 **Date:** February 25, 2026  
-**Learning Unit:** Launching Jupyter Notebook and Understanding the Home Interface
+**Learning Units Completed:**
+1. Launching Jupyter Notebook and Understanding the Home Interface
+2. **Running, Restarting, and Interrupting Jupyter Kernels** ← Current
 
 ---
 
 ## ✅ Milestone Objectives
 
-This milestone covers the following key areas:
+### Learning Unit 1: Jupyter Basics
+1. ✅ Launch Jupyter Notebook correctly from local environment
+2. ✅ Understand the Jupyter Home interface and its components
+3. ✅ Navigate folders and files confidently
+4. ✅ Create and manage notebooks in the correct location
+5. ✅ Understand Code vs Markdown cells
 
-1. **Launch Jupyter Notebook** correctly from local environment
-2. **Understand the Jupyter Home interface** and its components
-3. **Navigate folders and files** confidently
-4. **Create and manage notebooks** in the correct location
-5. **Demonstrate** understanding through a video walkthrough
+### Learning Unit 2: Kernel Management (Current)
+1. ✅ Understand what a Jupyter kernel is and why it matters
+2. ✅ Run cells deliberately and observe execution order effects
+3. ✅ Restart the kernel to reset notebook state
+4. ✅ Interrupt long-running or stuck executions safely
+5. ✅ Decide when to use restart vs interrupt
+6. ✅ Maintain clean, reproducible notebook state
+7. 🎥 Record video demonstration (~2 minutes)
 
 ---
 
 ## 🎯 Why This Matters
 
+### Notebook Organization & Workflow
 Many early data science issues arise from:
 - Running notebooks from the wrong directory
 - Creating files in unintended locations
 - Losing track of datasets or notebooks
 - Confusion about which environment or kernel is active
 
+### Kernel Management & Reproducibility
+Common notebook problems include:
+- Code working once but failing later
+- Variables mysteriously changing values
+- Cells depending on hidden execution order
+- Kernels freezing during execution
+
 This milestone ensures:
 - ✅ Notebooks live where the project expects them
 - ✅ Data, notebooks, and scripts stay organized
-- ✅ No silent workflow mistakes early in the sprint
+- ✅ Notebooks behave consistently and reproducibly
+- ✅ Ability to debug kernel-related issues systematically
+- ✅ Clean state management for team collaboration
 
 ---
 
