@@ -8,8 +8,9 @@ Use numbered prefixes to indicate workflow order:
 - `02_data_types_fundamentals.ipynb` - Python data types basics
 - `03_python_collections.ipynb` - Lists, dictionaries, tuples, and sets
 - `04_iteration_loops.ipynb` - **NEW!** For loops, while loops, and loop control
-- `05_visualization.ipynb` - Creating visualizations
-- `06_final_report.ipynb` - Final analysis and insights
+- `05_functions_fundamentals.ipynb` - Defining and calling Python functions
+- `06_visualization.ipynb` - Creating visualizations
+- `07_final_report.ipynb` - Final analysis and insights
 
 ## Learning Notebooks
 
@@ -18,6 +19,7 @@ Use numbered prefixes to indicate workflow order:
 - **02_data_types_fundamentals.ipynb** - Numeric types, strings, type conversion
 - **03_python_collections.ipynb** - Working with collections
 - **04_iteration_loops.ipynb** - For loops, while loops, break, and continue
+- **05_functions_fundamentals.ipynb** - Defining functions, parameters, calls, and scope
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration

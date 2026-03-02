@@ -50,6 +50,23 @@ Trivin_Insight_Engine/
 3. View generated visualizations in `outputs/figures/`
 4. Read analysis reports in `outputs/reports/`
 
+### Python Fundamentals Milestones
+Run the learning scripts from the project root:
+
+```bash
+python src/data_types_fundamentals.py
+python src/collections_fundamentals.py
+python src/loops_fundamentals.py
+python src/functions_fundamentals.py
+```
+
+Video walkthrough demo scripts:
+
+```bash
+python src/video_demo_loops.py
+python src/video_demo_functions.py
+```
+
 ## Data Guidelines
 - **Never modify files in `data/raw/`** - Keep original data immutable
 - Store processed data in `data/processed/`

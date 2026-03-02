@@ -4,6 +4,18 @@ This directory contains reusable Python scripts and modules.
 
 ## Structure
 
+### Fundamentals Modules
+Core Python learning scripts for milestone demonstrations:
+- `data_types_fundamentals.py` - Numeric and string data types
+- `collections_fundamentals.py` - Lists, tuples, and dictionaries
+- `loops_fundamentals.py` - For/while loops, break, and continue
+- `functions_fundamentals.py` - Defining and calling functions, arguments, and scope
+
+### Video Demo Scripts
+Short scripts for screen-record walkthrough submissions:
+- `video_demo_loops.py` - ~2-minute loop walkthrough
+- `video_demo_functions.py` - ~2-minute functions walkthrough
+
 ### data/
 Data processing and cleaning scripts
 - `data_loader.py` - Functions to load raw data
