@@ -7,8 +7,8 @@ Use numbered prefixes to indicate workflow order:
 - `01_data_processing_demo.ipynb` - Data processing and workflow demonstration
 - `02_data_types_fundamentals.ipynb` - Python data types basics
 - `03_python_collections.ipynb` - Lists, dictionaries, tuples, and sets
-- `04_iteration_loops.ipynb` - **NEW!** For loops, while loops, and loop control
-- `05_functions_fundamentals.ipynb` - Defining and calling Python functions
+- `04_iteration_loops.ipynb` - For loops, while loops, and loop control
+- `05_passing_data_and_returning_results.ipynb` - **NEW!** Functions: parameters, arguments, return statements
 - `06_visualization.ipynb` - Creating visualizations
 - `07_final_report.ipynb` - Final analysis and insights
 
@@ -19,7 +19,7 @@ Use numbered prefixes to indicate workflow order:
 - **02_data_types_fundamentals.ipynb** - Numeric types, strings, type conversion
 - **03_python_collections.ipynb** - Working with collections
 - **04_iteration_loops.ipynb** - For loops, while loops, break, and continue
-- **05_functions_fundamentals.ipynb** - Defining functions, parameters, calls, and scope
+- **05_passing_data_and_returning_results.ipynb** - **Milestone 4.19** Data flow in functions: passing parameters and returning results
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
