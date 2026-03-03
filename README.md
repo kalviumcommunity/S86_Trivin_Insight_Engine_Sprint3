@@ -58,6 +58,7 @@ python src/data_types_fundamentals.py
 python src/collections_fundamentals.py
 python src/loops_fundamentals.py
 python src/functions_fundamentals.py
+python src/readability_pep8_basics.py
 ```
 
 Video walkthrough demo scripts:
@@ -65,6 +66,7 @@ Video walkthrough demo scripts:
 ```bash
 python src/video_demo_loops.py
 python src/video_demo_functions.py
+python src/video_demo_readability.py
 ```
 
 ## Data Guidelines

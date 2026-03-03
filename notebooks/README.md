@@ -9,8 +9,9 @@ Use numbered prefixes to indicate workflow order:
 - `03_python_collections.ipynb` - Lists, dictionaries, tuples, and sets
 - `04_iteration_loops.ipynb` - For loops, while loops, and loop control
 - `05_passing_data_and_returning_results.ipynb` - **NEW!** Functions: parameters, arguments, return statements
-- `06_visualization.ipynb` - Creating visualizations
-- `07_final_report.ipynb` - Final analysis and insights
+- `06_readability_pep8_basics.ipynb` - Readable naming and meaningful comments (PEP 8 basics)
+- `07_visualization.ipynb` - Creating visualizations
+- `08_final_report.ipynb` - Final analysis and insights
 
 ## Learning Notebooks
 
@@ -20,6 +21,7 @@ Use numbered prefixes to indicate workflow order:
 - **03_python_collections.ipynb** - Working with collections
 - **04_iteration_loops.ipynb** - For loops, while loops, break, and continue
 - **05_passing_data_and_returning_results.ipynb** - **Milestone 4.19** Data flow in functions: passing parameters and returning results
+- **06_readability_pep8_basics.ipynb** - **Milestone 4.20** Readable variable names and comments with PEP 8 basics
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
