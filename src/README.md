@@ -10,11 +10,13 @@ Core Python learning scripts for milestone demonstrations:
 - `collections_fundamentals.py` - Lists, tuples, and dictionaries
 - `loops_fundamentals.py` - For/while loops, break, and continue
 - `functions_fundamentals.py` - Defining and calling functions, arguments, and scope
+- `readability_pep8_basics.py` - Readable variable names and useful comments (PEP 8 basics)
 
 ### Video Demo Scripts
 Short scripts for screen-record walkthrough submissions:
 - `video_demo_loops.py` - ~2-minute loop walkthrough
 - `video_demo_functions.py` - ~2-minute functions walkthrough
+- `video_demo_readability.py` - ~2-minute readability and naming walkthrough
 
 ### data/
 Data processing and cleaning scripts
