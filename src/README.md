@@ -11,12 +11,18 @@ Core Python learning scripts for milestone demonstrations:
 - `loops_fundamentals.py` - For/while loops, break, and continue
 - `functions_fundamentals.py` - Defining and calling functions, arguments, and scope
 - `readability_pep8_basics.py` - Readable variable names and useful comments (PEP 8 basics)
+- `code_structure_fundamentals.py` - Structuring code for readability and reuse (LU 4.21)
+
+### Reference Files
+Quick reference guides to keep open while coding:
+- `code_structure_reference.py` - Quick reference for code structure best practices
 
 ### Video Demo Scripts
 Short scripts for screen-record walkthrough submissions:
 - `video_demo_loops.py` - ~2-minute loop walkthrough
 - `video_demo_functions.py` - ~2-minute functions walkthrough
 - `video_demo_readability.py` - ~2-minute readability and naming walkthrough
+- `video_demo_code_structure.py` - ~2-minute code structure walkthrough (LU 4.21)
 
 ### data/
 Data processing and cleaning scripts
