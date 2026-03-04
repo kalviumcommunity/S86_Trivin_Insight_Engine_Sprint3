@@ -5,6 +5,22 @@ This milestone covers the fundamentals of creating and working with NumPy arrays
 
 ## Learning Materials Created
 
+### 0. **src/numpy_shape_dimensions_indexing.py** - Shape, Dimensions, and Index Positions Milestone
+A focused milestone script for building indexing confidence before slicing and reshaping.
+
+#### Content:
+- Inspecting array `shape` for 1D and 2D arrays
+- Understanding `ndim` for 1D, 2D, and 3D examples
+- Accessing values using correct index positions
+- Reinforcing zero-based indexing and `[row, column]` order
+- Demonstrating common out-of-range indexing errors safely with `try/except`
+- Visualizing index-to-value mapping in a 2D grid
+
+#### Usage:
+```bash
+python src/numpy_shape_dimensions_indexing.py
+```
+
 ### 1. **src/numpy_arrays_fundamentals.py** - Complete Python Module
 A comprehensive Python module with 6 major demonstration functions:
 
