@@ -8,10 +8,9 @@ Use numbered prefixes to indicate workflow order:
 - `02_data_types_fundamentals.ipynb` - Python data types basics
 - `03_python_collections.ipynb` - Lists, dictionaries, tuples, and sets
 - `04_iteration_loops.ipynb` - For loops, while loops, and loop control
-- `05_passing_data_and_returning_results.ipynb` - **NEW!** Functions: parameters, arguments, return statements
-- `06_readability_pep8_basics.ipynb` - Readable naming and meaningful comments (PEP 8 basics)
-- `07_visualization.ipynb` - Creating visualizations
-- `08_final_report.ipynb` - Final analysis and insights
+- `05_passing_data_and_returning_results.ipynb` - Functions: parameters, arguments, return statements
+- `06_numpy_arrays.ipynb` - NumPy arrays fundamentals
+- `07_numpy_math_operations.ipynb` - NumPy mathematical operations
 
 ## Learning Notebooks
 
@@ -21,7 +20,10 @@ Use numbered prefixes to indicate workflow order:
 - **03_python_collections.ipynb** - Working with collections
 - **04_iteration_loops.ipynb** - For loops, while loops, break, and continue
 - **05_passing_data_and_returning_results.ipynb** - **Milestone 4.19** Data flow in functions: passing parameters and returning results
-- **06_readability_pep8_basics.ipynb** - **Milestone 4.20** Readable variable names and comments with PEP 8 basics
+
+### NumPy Fundamentals
+- **06_numpy_arrays.ipynb** - **Milestone 4.20** Creating NumPy arrays from Python lists, array properties, basic operations
+- **07_numpy_math_operations.ipynb** - **Milestone 4.21** Performing basic mathematical operations on NumPy arrays
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
