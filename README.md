@@ -59,6 +59,7 @@ python src/collections_fundamentals.py
 python src/loops_fundamentals.py
 python src/functions_fundamentals.py
 python src/readability_pep8_basics.py
+python src/numpy_shape_dimensions_indexing.py
 ```
 
 Video walkthrough demo scripts:

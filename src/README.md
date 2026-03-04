@@ -12,6 +12,7 @@ Core Python learning scripts for milestone demonstrations:
 - `functions_fundamentals.py` - Defining and calling functions, arguments, and scope
 - `readability_pep8_basics.py` - Readable variable names and useful comments (PEP 8 basics)
 - `code_structure_fundamentals.py` - Structuring code for readability and reuse (LU 4.21)
+- `numpy_shape_dimensions_indexing.py` - Array shape, dimensions, and index positions (NumPy milestone)
 
 ### Reference Files
 Quick reference guides to keep open while coding:
