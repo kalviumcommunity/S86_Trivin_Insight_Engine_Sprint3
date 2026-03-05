@@ -11,6 +11,7 @@ Use numbered prefixes to indicate workflow order:
 - `05_passing_data_and_returning_results.ipynb` - Functions: parameters, arguments, return statements
 - `06_numpy_arrays.ipynb` - NumPy arrays fundamentals
 - `07_numpy_math_operations.ipynb` - NumPy mathematical operations
+- `08_pandas_series_from_lists_arrays.ipynb` - Pandas Series from lists and arrays
 
 ## Learning Notebooks
 
@@ -24,6 +25,9 @@ Use numbered prefixes to indicate workflow order:
 ### NumPy Fundamentals
 - **06_numpy_arrays.ipynb** - **Milestone 4.20** Creating NumPy arrays from Python lists, array properties, basic operations
 - **07_numpy_math_operations.ipynb** - **Milestone 4.21** Performing basic mathematical operations on NumPy arrays
+
+### Pandas Fundamentals
+- **08_pandas_series_from_lists_arrays.ipynb** - **Milestone 4.22** Creating Pandas Series from lists and NumPy arrays; understanding index and values
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
