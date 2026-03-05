@@ -19,6 +19,10 @@ NumPy array learning scripts:
 - `numpy_arrays_fundamentals.py` - Creating NumPy arrays, array properties, basic operations (LU 4.20)
 - `numpy_math_operations.py` - Mathematical operations on NumPy arrays (LU 4.21)
 
+### Pandas Fundamentals Modules
+Pandas learning scripts:
+- `pandas_series_from_lists_arrays.py` - Creating Pandas Series from lists and NumPy arrays (LU 4.22)
+
 ### Reference Files
 Quick reference guides to keep open while coding:
 - `code_structure_reference.py` - Quick reference for code structure best practices
