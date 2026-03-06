@@ -12,6 +12,7 @@ Use numbered prefixes to indicate workflow order:
 - `06_numpy_arrays.ipynb` - NumPy arrays fundamentals
 - `07_numpy_math_operations.ipynb` - NumPy mathematical operations
 - `08_pandas_series_from_lists_arrays.ipynb` - Pandas Series from lists and arrays
+- `11_csv_loading_into_dataframes.ipynb` - Loading CSV files into Pandas DataFrames and inspecting structure
 
 ## Learning Notebooks
 
@@ -28,6 +29,7 @@ Use numbered prefixes to indicate workflow order:
 
 ### Pandas Fundamentals
 - **08_pandas_series_from_lists_arrays.ipynb** - **Milestone 4.22** Creating Pandas Series from lists and NumPy arrays; understanding index and values
+- **11_csv_loading_into_dataframes.ipynb** - **CSV Loading Milestone** Loading CSV data with `pd.read_csv`, inspecting headers, columns, and row counts
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
