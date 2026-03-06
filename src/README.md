@@ -22,6 +22,7 @@ NumPy array learning scripts:
 ### Pandas Fundamentals Modules
 Pandas learning scripts:
 - `pandas_series_from_lists_arrays.py` - Creating Pandas Series from lists and NumPy arrays (LU 4.22)
+- `pandas_csv_loading_fundamentals.py` - Loading CSV data into Pandas DataFrames, then inspecting and verifying structure
 
 ### Reference Files
 Quick reference guides to keep open while coding:
