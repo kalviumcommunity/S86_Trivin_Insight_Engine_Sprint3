@@ -61,6 +61,7 @@ python src/functions_fundamentals.py
 python src/readability_pep8_basics.py
 python src/numpy_shape_dimensions_indexing.py
 python src/pandas_series_from_lists_arrays.py
+python src/pandas_dataframe_indexing_slicing.py
 python src/pandas_csv_loading_fundamentals.py
 ```
 
