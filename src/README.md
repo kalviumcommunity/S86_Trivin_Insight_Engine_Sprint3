@@ -24,6 +24,8 @@ Pandas learning scripts:
 - `pandas_series_from_lists_arrays.py` - Creating Pandas Series from lists and NumPy arrays (LU 4.22)
 - `pandas_dataframe_indexing_slicing.py` - Selecting DataFrame rows and columns using indexing and slicing
 - `pandas_csv_loading_fundamentals.py` - Loading CSV data into Pandas DataFrames, then inspecting and verifying structure
+- `missing_values_detection_demo.py` - Detecting and analyzing missing values in DataFrames; includes comprehensive detection workflow
+- `dataframe_inspection_demo.py` - Inspecting DataFrames using head(), info(), and describe()
 
 ### Reference Files
 Quick reference guides to keep open while coding:
@@ -35,6 +37,7 @@ Short scripts for screen-record walkthrough submissions:
 - `video_demo_functions.py` - ~2-minute functions walkthrough
 - `video_demo_readability.py` - ~2-minute readability and naming walkthrough
 - `video_demo_code_structure.py` - ~2-minute code structure walkthrough (LU 4.21)
+- `missing_values_detection_demo.py` - ~2-minute missing value detection demonstration (comprehensive with all key concepts)
 
 ### data/
 Data processing and cleaning scripts

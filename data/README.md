@@ -10,6 +10,10 @@ Contains original, **immutable** survey data files.
 - Store raw survey responses here
 - Keep original file names and formats
 
+**Current datasets:**
+- `employee_survey_2026_Q1.csv` - Complete employee survey data (Q1 2026)
+- `employee_survey_with_missing_2026_Q1.csv` - Employee survey data with missing values for learning detection techniques
+
 ### processed/
 Contains cleaned and transformed data ready for analysis.
 - Store processed datasets here
