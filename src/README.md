@@ -25,6 +25,7 @@ Pandas learning scripts:
 - `pandas_dataframe_indexing_slicing.py` - Selecting DataFrame rows and columns using indexing and slicing
 - `pandas_csv_loading_fundamentals.py` - Loading CSV data into Pandas DataFrames, then inspecting and verifying structure
 - `missing_values_detection_demo.py` - Detecting and analyzing missing values in DataFrames; includes comprehensive detection workflow
+- `column_name_standardization_demo.py` - Standardizing column names and data formats; snake_case convention, text normalization
 - `dataframe_inspection_demo.py` - Inspecting DataFrames using head(), info(), and describe()
 
 ### Reference Files
@@ -38,6 +39,7 @@ Short scripts for screen-record walkthrough submissions:
 - `video_demo_readability.py` - ~2-minute readability and naming walkthrough
 - `video_demo_code_structure.py` - ~2-minute code structure walkthrough (LU 4.21)
 - `missing_values_detection_demo.py` - ~2-minute missing value detection demonstration (comprehensive with all key concepts)
+- `column_name_standardization_demo.py` - ~2-minute column standardization and data format demonstration
 
 ### data/
 Data processing and cleaning scripts
