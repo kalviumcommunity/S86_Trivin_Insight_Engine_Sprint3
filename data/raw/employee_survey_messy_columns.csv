@@ -1,0 +1,11 @@
+Employee ID,Department Name,Survey Date (Q1),Satisfaction Score (1-10),Work/Life Balance,Manager Support %,Career-Growth,Team Collaboration!!!,Comments (Optional)
+1001,  Engineering,2026-01-15,7,8,6,5,9,"Great team environment"
+1002,marketing  ,2026-01-16,9,9,8,7,8,"Very satisfied"
+1003,Sales,2026-01-17,4,3,4,3,5,"High pressure environment"
+1004,hr,2026-01-18,8,7,8,7,9,"Good workplace culture"
+1005,FINANCE,2026-01-19,6,7,5,4,6,"Decent environment"
+1006,Engineering,2026-01-20,5,4,6,4,5,"Long hours"
+1007, marketing,2026-01-21,8,9,7,6,8,"Flexible schedule"
+1008,SALES  ,2026-01-22,3,2,3,2,4,"Unrealistic targets"
+1009,Engineering,2026-01-23,9,8,9,8,10,"Excellent culture"
+1010,Hr,2026-01-24,7,6,7,6,7,"Good team support"
