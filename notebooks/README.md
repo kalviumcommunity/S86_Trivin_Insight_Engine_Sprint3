@@ -15,6 +15,8 @@ Use numbered prefixes to indicate workflow order:
 - `10_inspecting_dataframes.ipynb` - Inspecting DataFrames using head(), info(), and describe()
 - `11_csv_loading_into_dataframes.ipynb` - Loading CSV files into Pandas DataFrames and inspecting structure
 - `12_detecting_missing_values.ipynb` - Detecting and analyzing missing values in DataFrames
+- `13_handling_missing_values.ipynb` - Handling missing values with appropriate strategies
+- `14_identifying_removing_duplicates.ipynb` - Identifying and removing duplicate records in DataFrames
 
 ## Learning Notebooks
 
@@ -34,6 +36,7 @@ Use numbered prefixes to indicate workflow order:
 - **10_inspecting_dataframes.ipynb** - Inspecting DataFrame structure with head(), info(), describe()
 - **11_csv_loading_into_dataframes.ipynb** - **CSV Loading Milestone** Loading CSV data with `pd.read_csv`, inspecting headers, columns, and row counts
 - **12_detecting_missing_values.ipynb** - **Missing Values Detection Milestone** Detecting, counting, and analyzing missing values in DataFrames; understanding data quality issues
+- **14_identifying_removing_duplicates.ipynb** - **Duplicate Records Milestone** Detecting duplicates, applying `drop_duplicates`, and verifying data integrity after cleanup
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
