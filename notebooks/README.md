@@ -17,6 +17,7 @@ Use numbered prefixes to indicate workflow order:
 - `12_detecting_missing_values.ipynb` - Detecting and analyzing missing values in DataFrames
 - `13_handling_missing_values.ipynb` - Handling missing values with appropriate strategies
 - `14_identifying_removing_duplicates.ipynb` - Identifying and removing duplicate records in DataFrames
+- `15_comparing_distributions_multiple_columns.ipynb` - Comparing distributions across multiple numeric columns using summary statistics
 
 ## Learning Notebooks
 
@@ -37,6 +38,7 @@ Use numbered prefixes to indicate workflow order:
 - **11_csv_loading_into_dataframes.ipynb** - **CSV Loading Milestone** Loading CSV data with `pd.read_csv`, inspecting headers, columns, and row counts
 - **12_detecting_missing_values.ipynb** - **Missing Values Detection Milestone** Detecting, counting, and analyzing missing values in DataFrames; understanding data quality issues
 - **14_identifying_removing_duplicates.ipynb** - **Duplicate Records Milestone** Detecting duplicates, applying `drop_duplicates`, and verifying data integrity after cleanup
+- **15_comparing_distributions_multiple_columns.ipynb** - **Distribution Comparison Milestone** Comparing means, medians, ranges, and standard deviations across multiple numeric columns
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
