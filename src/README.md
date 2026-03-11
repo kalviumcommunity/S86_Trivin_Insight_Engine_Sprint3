@@ -25,6 +25,7 @@ Pandas learning scripts:
 - `pandas_dataframe_indexing_slicing.py` - Selecting DataFrame rows and columns using indexing and slicing
 - `pandas_csv_loading_fundamentals.py` - Loading CSV data into Pandas DataFrames, then inspecting and verifying structure
 - `missing_values_detection_demo.py` - Detecting and analyzing missing values in DataFrames; includes comprehensive detection workflow
+- `distribution_comparison_demo.py` - Comparing distributions across multiple numeric columns using summary statistics only
 - `column_name_standardization_demo.py` - Standardizing column names and data formats; snake_case convention, text normalization
 - `data_standardization_complete_workflow.py` - Complete workflow: standardization, duplicates removal, summary statistics
 - `duplicate_records_handling_demo.py` - Identifying exact and partial duplicates, removing duplicates intentionally, and verifying deduplication results
