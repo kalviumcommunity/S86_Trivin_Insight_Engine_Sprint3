@@ -65,6 +65,7 @@ python src/pandas_dataframe_indexing_slicing.py
 python src/pandas_csv_loading_fundamentals.py
 python src/distribution_comparison_demo.py
 python src/duplicate_records_handling_demo.py
+python src/line_plot_trends_demo.py
 ```
 
 Video walkthrough demo scripts:
@@ -74,6 +75,11 @@ python src/video_demo_loops.py
 python src/video_demo_functions.py
 python src/video_demo_readability.py
 ```
+
+### Data Visualization Milestones
+- `notebooks/15_visualizing_data_distributions_boxplots.ipynb` - Boxplot visualization for distribution analysis and outlier spotting
+- `notebooks/16_histogram_visualization.ipynb` - Histogram visualization for numeric distributions
+- `notebooks/17_identifying_trends_over_time_line_plots.ipynb` - Line plot milestone for identifying trends over time using `survey_date`
 
 ## Data Guidelines
 - **Never modify files in `data/raw/`** - Keep original data immutable

@@ -30,6 +30,7 @@ Pandas learning scripts:
 - `data_standardization_complete_workflow.py` - Complete workflow: standardization, duplicates removal, summary statistics
 - `duplicate_records_handling_demo.py` - Identifying exact and partial duplicates, removing duplicates intentionally, and verifying deduplication results
 - `dataframe_inspection_demo.py` - Inspecting DataFrames using head(), info(), and describe()
+- `line_plot_trends_demo.py` - Identifying trends over time with line plots; sorting dates, smoothing noise, and spotting spikes or drops
 
 ### Reference Files
 Quick reference guides to keep open while coding:
