@@ -38,6 +38,9 @@ Use numbered prefixes to indicate workflow order:
 - **12_detecting_missing_values.ipynb** - **Missing Values Detection Milestone** Detecting, counting, and analyzing missing values in DataFrames; understanding data quality issues
 - **14_identifying_removing_duplicates.ipynb** - **Duplicate Records Milestone** Detecting duplicates, applying `drop_duplicates`, and verifying data integrity after cleanup
 
+### Data Visualization - EDA
+- **15_visualizing_data_distributions_boxplots.ipynb** - **Boxplot Visualization Milestone** Creating and interpreting boxplots for data distribution analysis; identifying outliers; comparing distributions across columns and groups
+
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
 
