@@ -40,6 +40,9 @@ Use numbered prefixes to indicate workflow order:
 - **14_identifying_removing_duplicates.ipynb** - **Duplicate Records Milestone** Detecting duplicates, applying `drop_duplicates`, and verifying data integrity after cleanup
 - **15_comparing_distributions_multiple_columns.ipynb** - **Distribution Comparison Milestone** Comparing means, medians, ranges, and standard deviations across multiple numeric columns
 
+### Data Visualization - EDA
+- **15_visualizing_data_distributions_boxplots.ipynb** - **Boxplot Visualization Milestone** Creating and interpreting boxplots for data distribution analysis; identifying outliers; comparing distributions across columns and groups
+
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
 
