@@ -42,6 +42,8 @@ Use numbered prefixes to indicate workflow order:
 
 ### Data Visualization - EDA
 - **15_visualizing_data_distributions_boxplots.ipynb** - **Boxplot Visualization Milestone** Creating and interpreting boxplots for data distribution analysis; identifying outliers; comparing distributions across columns and groups
+- **16_histogram_visualization.ipynb** - **Histogram Visualization Milestone** Visualizing numeric distributions with histograms; interpreting spread, skewness, and unusual patterns
+- **17_identifying_trends_over_time_line_plots.ipynb** - **Line Plot Trends Milestone** Creating line plots for ordered time data; identifying trends, spikes, drops, and short-term noise
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
