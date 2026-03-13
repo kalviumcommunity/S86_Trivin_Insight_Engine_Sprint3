@@ -19,6 +19,7 @@ Use numbered prefixes to indicate workflow order:
 - `14_identifying_removing_duplicates.ipynb` - Identifying and removing duplicate records in DataFrames
 - `15_comparing_distributions_multiple_columns.ipynb` - Comparing distributions across multiple numeric columns using summary statistics
 - `18_exploring_relationships_scatter_plots.ipynb` - Exploring relationships between numeric variables using scatter plots
+- `19_detecting_outliers_visual_inspection_rules.ipynb` - Detecting outliers using visual inspection and simple rules
 
 ## Learning Notebooks
 
@@ -46,6 +47,7 @@ Use numbered prefixes to indicate workflow order:
 - **16_histogram_visualization.ipynb** - **Histogram Visualization Milestone** Visualizing numeric distributions with histograms; interpreting spread, skewness, and unusual patterns
 - **17_identifying_trends_over_time_line_plots.ipynb** - **Line Plot Trends Milestone** Creating line plots for ordered time data; identifying trends, spikes, drops, and short-term noise
 - **18_exploring_relationships_scatter_plots.ipynb** - **Scatter Plot Relationships Milestone** Creating scatter plots for numeric pairs; identifying relationship direction, clusters, and outliers
+- **19_detecting_outliers_visual_inspection_rules.ipynb** - **Outlier Detection Milestone** Detecting outliers with boxplots/scatter plots and simple rules like IQR and thresholds
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration

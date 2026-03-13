@@ -67,6 +67,7 @@ python src/distribution_comparison_demo.py
 python src/duplicate_records_handling_demo.py
 python src/line_plot_trends_demo.py
 python src/scatter_plot_relationships_demo.py
+python src/outlier_detection_visual_rules_demo.py
 ```
 
 Video walkthrough demo scripts:
@@ -82,6 +83,7 @@ python src/video_demo_readability.py
 - `notebooks/16_histogram_visualization.ipynb` - Histogram visualization for numeric distributions
 - `notebooks/17_identifying_trends_over_time_line_plots.ipynb` - Line plot milestone for identifying trends over time using `survey_date`
 - `notebooks/18_exploring_relationships_scatter_plots.ipynb` - Scatter plot milestone for exploring variable relationships, clusters, and potential outliers
+- `notebooks/19_detecting_outliers_visual_inspection_rules.ipynb` - Outlier detection milestone for visual inspection and simple rule-based flagging
 
 ## Data Guidelines
 - **Never modify files in `data/raw/`** - Keep original data immutable
