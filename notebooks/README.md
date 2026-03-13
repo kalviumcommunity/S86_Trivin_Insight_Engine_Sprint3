@@ -18,6 +18,7 @@ Use numbered prefixes to indicate workflow order:
 - `13_handling_missing_values.ipynb` - Handling missing values with appropriate strategies
 - `14_identifying_removing_duplicates.ipynb` - Identifying and removing duplicate records in DataFrames
 - `15_comparing_distributions_multiple_columns.ipynb` - Comparing distributions across multiple numeric columns using summary statistics
+- `18_exploring_relationships_scatter_plots.ipynb` - Exploring relationships between numeric variables using scatter plots
 
 ## Learning Notebooks
 
@@ -44,6 +45,7 @@ Use numbered prefixes to indicate workflow order:
 - **15_visualizing_data_distributions_boxplots.ipynb** - **Boxplot Visualization Milestone** Creating and interpreting boxplots for data distribution analysis; identifying outliers; comparing distributions across columns and groups
 - **16_histogram_visualization.ipynb** - **Histogram Visualization Milestone** Visualizing numeric distributions with histograms; interpreting spread, skewness, and unusual patterns
 - **17_identifying_trends_over_time_line_plots.ipynb** - **Line Plot Trends Milestone** Creating line plots for ordered time data; identifying trends, spikes, drops, and short-term noise
+- **18_exploring_relationships_scatter_plots.ipynb** - **Scatter Plot Relationships Milestone** Creating scatter plots for numeric pairs; identifying relationship direction, clusters, and outliers
 
 ### Data Workflow
 - **01_data_processing_demo.ipynb** - Complete data lifecycle demonstration
